@@ -1,2 +1,2 @@
 # python
-Repository created to save some interesting projects, interviews answers, utilities to help myself and others
+Repository created to keep some interesting projects, interviews questions/answers, utilities to help myself and others.
